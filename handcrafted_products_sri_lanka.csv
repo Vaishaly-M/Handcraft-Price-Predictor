@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Material,Time_Taken,Region,Demand_Level,Avg_Reviews,Actual_Cost,Expected_Price,Price_Difference,Difference_Flag
+1,Macrame Wall Hanging,Crafts,Ceramic,2,Sabaragamuwa,High,3.4,5218,6724,1506,0
+2,Woven Basket,Jewelry,Wood,9,Sabaragamuwa,Medium,4.9,6066,8121,2055,0
+3,Wooden Sculpture,Crafts,Cotton Rope,2,Uwa,Medium,4.4,2439,6074,3635,0
+4,Handmade Necklace,Kitchenware,Straw,20,NorthEast,Medium,3.9,4474,19070,14596,0
+5,Macrame Wall Hanging,Crafts,Beads,4,NorthEast,High,4.3,13997,4407,9590,0
+6,Woven Basket,Crafts,Paper,15,NorthEast,Low,4.5,8850,2280,6570,0
+7,Wooden Sculpture,Home Decor,Paper,11,Uwa,Low,3.7,9495,6858,2637,0
+8,Knitted Scarf,Jewelry,Beads,14,NorthEast,Medium,3.2,13648,15757,2109,0
+9,Macrame Wall Hanging,Accessories,Straw,19,Uwa,High,4.0,10497,7989,2508,0
+10,Embroidered Cushion,Jewelry,Straw,11,North,Low,3.1,16974,9409,7565,0
+11,Woven Basket,Kitchenware,Ceramic,4,Sabaragamuwa,High,3.2,7183,11737,4554,0
+12,Embroidered Cushion,Crafts,Ceramic,14,NorthEast,High,3.3,13778,14305,527,0
+13,Leather Wallet,Crafts,Straw,13,North,High,3.7,4902,14131,9229,0
+14,Embroidered Cushion,Fashion,Paper,1,Sabaragamuwa,Medium,3.1,12082,12314,232,0
+15,Macrame Wall Hanging,Fashion,Straw,20,Sabaragamuwa,Medium,5.0,1360,12804,11444,0
+16,Handmade Necklace,Fashion,Wool,5,North,Low,3.6,10411,10199,212,0
+17,Hand-Painted Vase,Jewelry,Wool,5,North,High,4.7,3995,4140,145,0
+18,Embroidered Cushion,Crafts,Wool,16,Uwa,Low,3.0,16001,2412,13589,0
+19,Woven Basket,Kitchenware,Fabric,9,North,High,4.1,15415,3041,12374,0
+20,Woven Basket,Fashion,Fabric,10,NorthEast,Medium,3.1,12833,3177,9656,0
+21,Macrame Wall Hanging,Kitchenware,Straw,18,Sabaragamuwa,Medium,4.2,16069,12787,3282,0
+22,Embroidered Cushion,Kitchenware,Wood,10,NorthEast,Low,3.4,17562,18209,647,0
+23,Embroidered Cushion,Accessories,Straw,12,Uwa,Low,4.9,5831,8216,2385,0
+24,Handmade Necklace,Kitchenware,Fabric,15,North,High,3.9,13329,15128,1799,0
+25,Painted Ceramic Mug,Jewelry,Straw,16,NorthEast,Medium,4.8,4698,18960,14262,0
+26,Wooden Sculpture,Crafts,Beads,11,North,High,4.1,12034,14939,2905,0
+27,Knitted Scarf,Home Decor,Straw,17,Sabaragamuwa,Medium,3.1,3488,13935,10447,0
+28,Paper Flower Bouquet,Kitchenware,Fabric,7,Uwa,High,4.5,9107,13202,4095,0
+29,Leather Wallet,Jewelry,Wood,20,North,High,4.1,13413,9695,3718,0
+30,Hand-Painted Vase,Home Decor,Straw,7,Uwa,High,4.9,3196,10031,6835,0
+31,Painted Ceramic Mug,Crafts,Leather,12,Sabaragamuwa,Medium,4.1,13045,7716,5329,0
+32,Handmade Necklace,Fashion,Wool,11,Uwa,Low,4.4,17259,13527,3732,0
+33,Wooden Sculpture,Jewelry,Wood,18,North,Low,3.8,1052,19196,18144,0
+34,Embroidered Cushion,Jewelry,Wood,1,Uwa,Low,3.7,8518,13265,4747,0
+35,Painted Ceramic Mug,Kitchenware,Wood,3,Sabaragamuwa,High,4.1,19324,19443,119,0
+36,Macrame Wall Hanging,Fashion,Cotton Rope,18,North,Low,3.9,11412,16742,5330,0
+37,Macrame Wall Hanging,Home Decor,Paper,1,Sabaragamuwa,Low,3.8,15520,12363,3157,0
+38,Embroidered Cushion,Kitchenware,Leather,13,Uwa,High,3.6,13748,10142,3606,0
+39,Paper Flower Bouquet,Accessories,Cotton Rope,11,Sabaragamuwa,High,3.3,12340,3523,8817,0
+40,Macrame Wall Hanging,Accessories,Beads,11,North,Medium,4.0,19415,3634,15781,0
+41,Leather Wallet,Crafts,Wool,12,Sabaragamuwa,High,4.6,5675,9357,3682,0
+42,Macrame Wall Hanging,Accessories,Fabric,7,NorthEast,Medium,3.0,10518,14906,4388,0
+43,Leather Wallet,Accessories,Wool,1,Uwa,High,4.0,16447,11377,5070,0
+44,Handmade Necklace,Accessories,Leather,16,Uwa,Low,4.4,3693,12298,8605,0
+45,Painted Ceramic Mug,Kitchenware,Beads,5,North,High,3.7,7352,8368,1016,0
+46,Leather Wallet,Accessories,Fabric,6,Sabaragamuwa,High,3.3,17696,1204,16492,0
+47,Painted Ceramic Mug,Accessories,Fabric,1,Uwa,High,3.2,11129,6023,5106,0
+48,Macrame Wall Hanging,Crafts,Straw,12,Uwa,High,4.2,15138,16296,1158,0
+49,Wooden Sculpture,Fashion,Paper,6,NorthEast,Low,5.0,7720,18863,11143,0
+50,Leather Wallet,Home Decor,Cotton Rope,19,Uwa,High,3.6,17083,6814,10269,0
+51,Macrame Wall Hanging,Accessories,Beads,12,North,Low,4.3,18896,10971,7925,0
+52,Painted Ceramic Mug,Home Decor,Wool,8,NorthEast,Medium,4.1,8800,17333,8533,0
+53,Hand-Painted Vase,Fashion,Paper,18,Sabaragamuwa,Medium,4.6,12214,1086,11128,0
+54,Painted Ceramic Mug,Home Decor,Ceramic,15,North,Low,3.3,18824,18208,616,0
+55,Woven Basket,Crafts,Leather,7,Uwa,Low,3.5,3213,4532,1319,0
+56,Wooden Sculpture,Crafts,Wood,9,NorthEast,Low,3.1,19900,18751,1149,0
+57,Embroidered Cushion,Home Decor,Cotton Rope,7,Uwa,Medium,4.0,11997,13128,1131,0
+58,Handmade Necklace,Jewelry,Wood,12,Sabaragamuwa,High,4.7,2631,16944,14313,0
+59,Wooden Sculpture,Accessories,Ceramic,8,North,Low,4.3,7818,2756,5062,0
+60,Painted Ceramic Mug,Crafts,Fabric,7,Uwa,Low,4.7,8343,18552,10209,0
+61,Macrame Wall Hanging,Home Decor,Wool,2,NorthEast,Low,4.2,9418,9109,309,0
+62,Wooden Sculpture,Jewelry,Wood,15,Uwa,High,3.2,8768,19060,10292,0
+63,Hand-Painted Vase,Crafts,Paper,8,Uwa,High,4.0,11013,5749,5264,0
+64,Painted Ceramic Mug,Home Decor,Fabric,14,NorthEast,Low,4.5,16859,7595,9264,0
+65,Woven Basket,Home Decor,Cotton Rope,16,Uwa,Medium,3.0,14869,9384,5485,0
+66,Hand-Painted Vase,Kitchenware,Leather,4,Sabaragamuwa,High,3.7,2600,3360,760,0
+67,Painted Ceramic Mug,Fashion,Fabric,2,NorthEast,Medium,3.9,1929,3473,1544,0
+68,Knitted Scarf,Crafts,Leather,1,Uwa,Medium,3.1,1027,10291,9264,0
+69,Handmade Necklace,Home Decor,Beads,13,NorthEast,Low,3.4,16175,7993,8182,0
+70,Painted Ceramic Mug,Home Decor,Cotton Rope,14,Uwa,Medium,4.5,5119,7311,2192,0
+71,Knitted Scarf,Crafts,Leather,16,NorthEast,High,4.5,19753,11940,7813,0
+72,Hand-Painted Vase,Home Decor,Straw,9,Uwa,High,3.1,17754,1582,16172,0
+73,Painted Ceramic Mug,Home Decor,Beads,19,Uwa,High,3.7,11215,17678,6463,0
+74,Woven Basket,Accessories,Fabric,20,NorthEast,Medium,4.0,8500,7085,1415,0
+75,Wooden Sculpture,Accessories,Fabric,5,Sabaragamuwa,High,4.0,13419,13028,391,0
+76,Macrame Wall Hanging,Kitchenware,Straw,3,North,Low,4.2,13638,17840,4202,0
+77,Handmade Necklace,Kitchenware,Ceramic,14,Sabaragamuwa,Low,3.3,18670,14399,4271,0
+78,Hand-Painted Vase,Jewelry,Fabric,7,Sabaragamuwa,Medium,3.7,16179,11461,4718,0
+79,Knitted Scarf,Crafts,Wood,5,North,Medium,4.8,14277,12014,2263,0
+80,Wooden Sculpture,Fashion,Leather,2,Uwa,High,4.2,10241,18047,7806,0
+81,Macrame Wall Hanging,Kitchenware,Paper,5,North,Medium,3.6,6905,9197,2292,0
+82,Wooden Sculpture,Crafts,Ceramic,16,Sabaragamuwa,Low,3.2,3047,7268,4221,0
+83,Woven Basket,Fashion,Fabric,7,Sabaragamuwa,Low,4.0,17794,15500,2294,0
+84,Handmade Necklace,Crafts,Paper,10,Uwa,Medium,4.7,17586,4073,13513,0
+85,Painted Ceramic Mug,Jewelry,Ceramic,7,North,Low,3.2,15326,3164,12162,0
+86,Leather Wallet,Fashion,Straw,7,Uwa,High,3.9,17095,19645,2550,0
+87,Paper Flower Bouquet,Fashion,Straw,19,NorthEast,High,3.1,11699,10429,1270,0
+88,Hand-Painted Vase,Accessories,Leather,9,North,High,4.5,10005,15582,5577,0
+89,Wooden Sculpture,Fashion,Straw,9,NorthEast,Low,3.9,4246,13792,9546,0
+90,Handmade Necklace,Fashion,Leather,10,North,High,4.3,6948,16249,9301,0
+91,Embroidered Cushion,Jewelry,Straw,5,Sabaragamuwa,Low,4.1,1478,7679,6201,0
+92,Hand-Painted Vase,Crafts,Leather,7,Sabaragamuwa,High,3.1,1766,11939,10173,0
+93,Wooden Sculpture,Home Decor,Straw,7,NorthEast,Medium,4.1,6661,9430,2769,0
+94,Handmade Necklace,Accessories,Leather,15,Uwa,Low,4.5,16142,14925,1217,0
+95,Embroidered Cushion,Jewelry,Cotton Rope,8,Sabaragamuwa,Low,3.5,7951,12305,4354,0
+96,Knitted Scarf,Fashion,Cotton Rope,2,NorthEast,Low,4.6,11115,14284,3169,0
+97,Hand-Painted Vase,Kitchenware,Paper,15,NorthEast,High,3.0,18492,1564,16928,0
+98,Woven Basket,Crafts,Beads,11,Uwa,High,4.2,9454,15567,6113,0
+99,Knitted Scarf,Crafts,Beads,7,Sabaragamuwa,Medium,4.9,16868,19330,2462,0
+100,Macrame Wall Hanging,Jewelry,Ceramic,12,North,Low,4.9,12968,19148,6180,0
+101,Hand-Painted Vase,Home Decor,Wool,13,Uwa,Low,4.4,5233,13199,7966,0
+102,Wooden Sculpture,Crafts,Leather,17,Uwa,Low,3.3,12687,8677,4010,0
+103,Paper Flower Bouquet,Accessories,Leather,11,Sabaragamuwa,Low,3.1,6795,9727,2932,0
+104,Macrame Wall Hanging,Home Decor,Beads,11,NorthEast,Medium,3.1,12021,12441,420,0
+105,Leather Wallet,Kitchenware,Straw,8,North,Medium,4.7,2871,14546,11675,0
+106,Handmade Necklace,Kitchenware,Fabric,17,Sabaragamuwa,Low,4.3,16191,9704,6487,0
+107,Paper Flower Bouquet,Kitchenware,Straw,1,Uwa,Low,4.8,1524,19862,18338,0
+108,Woven Basket,Crafts,Fabric,13,Uwa,Low,4.5,13484,14495,1011,0
+109,Hand-Painted Vase,Jewelry,Beads,20,Sabaragamuwa,Medium,3.5,3096,13482,10386,0
+110,Wooden Sculpture,Kitchenware,Wool,6,Uwa,Medium,3.3,1668,19464,17796,0
+111,Hand-Painted Vase,Home Decor,Cotton Rope,8,Sabaragamuwa,Low,4.7,5701,6136,435,0
+112,Painted Ceramic Mug,Home Decor,Fabric,13,Sabaragamuwa,Low,3.5,19003,2515,16488,0
+113,Hand-Painted Vase,Crafts,Paper,3,NorthEast,Medium,3.3,17539,1202,16337,0
+114,Handmade Necklace,Jewelry,Wood,9,Uwa,High,4.0,9642,12299,2657,0
+115,Leather Wallet,Accessories,Straw,6,Sabaragamuwa,Medium,4.4,11823,7547,4276,0
+116,Hand-Painted Vase,Crafts,Paper,12,North,Low,3.4,18885,16992,1893,0
+117,Knitted Scarf,Fashion,Ceramic,1,Uwa,Medium,3.0,4191,9511,5320,0
+118,Paper Flower Bouquet,Crafts,Cotton Rope,13,Sabaragamuwa,Low,4.7,6403,2368,4035,0
+119,Leather Wallet,Home Decor,Ceramic,11,Sabaragamuwa,High,4.9,7977,11535,3558,0
+120,Woven Basket,Crafts,Wood,14,North,Low,4.0,16392,2066,14326,0
+121,Leather Wallet,Crafts,Cotton Rope,7,Uwa,Low,4.8,5637,8039,2402,0
+122,Wooden Sculpture,Jewelry,Leather,9,Sabaragamuwa,Low,4.5,3697,7886,4189,0
+123,Woven Basket,Fashion,Cotton Rope,13,Sabaragamuwa,High,3.9,17643,17805,162,0
+124,Handmade Necklace,Home Decor,Wool,1,NorthEast,Medium,4.3,7610,4530,3080,0
+125,Hand-Painted Vase,Crafts,Paper,11,North,High,3.9,7667,11249,3582,0
+126,Knitted Scarf,Crafts,Paper,14,Uwa,Low,3.4,16282,16101,181,0
+127,Handmade Necklace,Kitchenware,Paper,15,NorthEast,Medium,4.7,10527,2980,7547,0
+128,Leather Wallet,Fashion,Straw,19,Uwa,High,3.7,9593,2413,7180,0
+129,Embroidered Cushion,Kitchenware,Wood,13,Sabaragamuwa,High,4.3,7496,6508,988,0
+130,Leather Wallet,Accessories,Cotton Rope,6,NorthEast,High,3.4,7663,16132,8469,0
+131,Leather Wallet,Kitchenware,Wool,16,NorthEast,Low,3.4,4897,18028,13131,0
+132,Leather Wallet,Crafts,Straw,1,NorthEast,High,3.6,2304,1957,347,0
+133,Macrame Wall Hanging,Fashion,Cotton Rope,8,Sabaragamuwa,Medium,4.3,14361,7789,6572,0
+134,Embroidered Cushion,Accessories,Paper,6,North,Medium,4.9,6313,4477,1836,0
+135,Wooden Sculpture,Fashion,Paper,6,NorthEast,Medium,4.1,17813,6107,11706,0
+136,Macrame Wall Hanging,Crafts,Ceramic,19,NorthEast,High,4.0,4049,15397,11348,0
+137,Painted Ceramic Mug,Crafts,Wool,7,Uwa,Medium,3.3,13933,14089,156,0
+138,Embroidered Cushion,Kitchenware,Wool,2,Uwa,High,4.4,11119,1007,10112,0
+139,Handmade Necklace,Jewelry,Paper,2,Sabaragamuwa,Low,4.7,5741,16101,10360,0
+140,Handmade Necklace,Home Decor,Cotton Rope,13,North,Low,3.2,15617,2209,13408,0
+141,Painted Ceramic Mug,Crafts,Wool,4,North,Low,4.0,19901,2606,17295,0
+142,Leather Wallet,Fashion,Beads,16,NorthEast,Medium,4.3,12991,14572,1581,0
+143,Handmade Necklace,Accessories,Paper,20,Sabaragamuwa,High,3.2,4670,13763,9093,0
+144,Painted Ceramic Mug,Fashion,Wood,15,Sabaragamuwa,Low,3.5,12310,10259,2051,0
+145,Painted Ceramic Mug,Fashion,Leather,6,Sabaragamuwa,Medium,4.5,9792,3114,6678,0
+146,Painted Ceramic Mug,Kitchenware,Ceramic,6,Uwa,Medium,3.6,13686,11547,2139,0
+147,Leather Wallet,Home Decor,Fabric,19,Sabaragamuwa,High,3.2,12595,18030,5435,0
+148,Macrame Wall Hanging,Jewelry,Beads,19,Uwa,Low,3.9,14695,2928,11767,0
+149,Painted Ceramic Mug,Fashion,Paper,16,NorthEast,Low,3.8,4577,9728,5151,0
+150,Hand-Painted Vase,Jewelry,Fabric,6,NorthEast,High,3.4,8295,10726,2431,0
+151,Hand-Painted Vase,Fashion,Wool,12,North,High,3.7,7769,6111,1658,0
+152,Painted Ceramic Mug,Home Decor,Fabric,9,Uwa,Low,3.4,17585,18842,1257,0
+153,Embroidered Cushion,Fashion,Leather,10,Sabaragamuwa,Low,4.9,11244,13520,2276,0
+154,Leather Wallet,Home Decor,Straw,4,NorthEast,Medium,4.8,18105,5877,12228,0
+155,Hand-Painted Vase,Accessories,Wood,15,Sabaragamuwa,Medium,4.0,17026,4107,12919,0
+156,Handmade Necklace,Fashion,Ceramic,14,NorthEast,Medium,3.6,14822,8198,6624,0
+157,Knitted Scarf,Home Decor,Wool,8,NorthEast,High,4.1,4941,5193,252,0
+158,Paper Flower Bouquet,Home Decor,Leather,5,NorthEast,Medium,3.2,12218,10131,2087,0
+159,Paper Flower Bouquet,Kitchenware,Straw,10,NorthEast,High,4.0,6199,1794,4405,0
+160,Painted Ceramic Mug,Fashion,Cotton Rope,1,North,Medium,3.3,19295,2726,16569,0
+161,Wooden Sculpture,Crafts,Leather,2,Sabaragamuwa,Medium,3.6,13812,15704,1892,0
+162,Knitted Scarf,Kitchenware,Leather,6,Uwa,High,4.1,18589,16729,1860,0
+163,Hand-Painted Vase,Accessories,Cotton Rope,20,Uwa,Medium,3.3,8732,2655,6077,0
+164,Hand-Painted Vase,Home Decor,Cotton Rope,5,NorthEast,Medium,4.0,8061,11612,3551,0
+165,Macrame Wall Hanging,Accessories,Ceramic,3,North,Medium,4.5,17178,6619,10559,0
+166,Paper Flower Bouquet,Home Decor,Wood,6,Uwa,Low,4.5,16391,2981,13410,0
+167,Wooden Sculpture,Accessories,Paper,4,Uwa,High,4.4,7162,10960,3798,0
+168,Macrame Wall Hanging,Home Decor,Beads,12,NorthEast,Medium,3.0,18345,3280,15065,0
+169,Wooden Sculpture,Crafts,Wood,20,NorthEast,High,3.8,3288,12604,9316,0
+170,Hand-Painted Vase,Accessories,Cotton Rope,11,Uwa,Low,3.9,4340,8929,4589,0
+171,Leather Wallet,Kitchenware,Leather,7,Uwa,High,4.7,9529,15807,6278,0
+172,Woven Basket,Kitchenware,Paper,6,Sabaragamuwa,High,3.8,10769,10698,71,0
+173,Hand-Painted Vase,Kitchenware,Wool,2,Sabaragamuwa,High,4.3,10205,14556,4351,0
+174,Embroidered Cushion,Fashion,Ceramic,13,NorthEast,Low,3.9,17277,15055,2222,0
+175,Woven Basket,Home Decor,Ceramic,12,Sabaragamuwa,High,4.8,17132,4366,12766,0
+176,Wooden Sculpture,Fashion,Leather,3,North,Medium,4.1,6673,5510,1163,0
+177,Knitted Scarf,Home Decor,Wool,20,Sabaragamuwa,High,3.7,3641,10086,6445,0
+178,Leather Wallet,Accessories,Fabric,6,NorthEast,Medium,3.3,10580,16585,6005,0
+179,Painted Ceramic Mug,Home Decor,Wood,7,Sabaragamuwa,Low,4.5,3317,13730,10413,0
+180,Handmade Necklace,Jewelry,Wool,8,Sabaragamuwa,Medium,3.0,1961,8223,6262,0
+181,Embroidered Cushion,Jewelry,Beads,13,Sabaragamuwa,High,3.5,12478,10198,2280,0
+182,Wooden Sculpture,Fashion,Straw,20,Uwa,High,4.1,19679,4151,15528,0
+183,Leather Wallet,Kitchenware,Ceramic,12,NorthEast,Medium,4.1,17970,18485,515,0
+184,Paper Flower Bouquet,Accessories,Beads,11,Sabaragamuwa,Medium,3.1,13180,18797,5617,0
+185,Painted Ceramic Mug,Kitchenware,Paper,4,North,Low,4.8,16091,8926,7165,0
+186,Painted Ceramic Mug,Fashion,Ceramic,8,NorthEast,High,3.2,9914,8753,1161,0
+187,Macrame Wall Hanging,Home Decor,Leather,15,North,Medium,4.8,5349,19252,13903,0
+188,Knitted Scarf,Crafts,Straw,18,Uwa,Medium,4.0,11712,5632,6080,0
+189,Paper Flower Bouquet,Crafts,Cotton Rope,9,Sabaragamuwa,High,3.4,11843,7164,4679,0
+190,Woven Basket,Jewelry,Beads,9,North,Medium,4.0,11865,4974,6891,0
+191,Knitted Scarf,Fashion,Leather,12,Uwa,Low,4.8,14361,3805,10556,0
+192,Woven Basket,Accessories,Wool,9,Uwa,Medium,4.7,15858,9138,6720,0
+193,Paper Flower Bouquet,Kitchenware,Paper,14,Sabaragamuwa,Low,4.5,14099,12163,1936,0
+194,Macrame Wall Hanging,Crafts,Beads,4,Sabaragamuwa,High,3.5,1666,16043,14377,0
+195,Handmade Necklace,Kitchenware,Wool,6,Uwa,High,3.2,11633,15592,3959,0
+196,Wooden Sculpture,Crafts,Fabric,19,Sabaragamuwa,Low,3.1,6143,9067,2924,0
+197,Wooden Sculpture,Home Decor,Cotton Rope,13,Sabaragamuwa,Low,4.7,4438,3026,1412,0
+198,Painted Ceramic Mug,Jewelry,Wood,19,North,Medium,4.2,16234,10658,5576,0
+199,Embroidered Cushion,Accessories,Fabric,5,Uwa,Medium,4.6,1777,13852,12075,0
+200,Woven Basket,Kitchenware,Paper,6,North,Medium,4.7,13245,14659,1414,0
+201,Hand-Painted Vase,Crafts,Straw,19,North,High,3.4,2606,15729,13123,0
+202,Macrame Wall Hanging,Jewelry,Paper,10,Sabaragamuwa,Medium,3.9,2828,2114,714,0
+203,Painted Ceramic Mug,Kitchenware,Wool,7,NorthEast,Medium,3.4,3146,6086,2940,0
+204,Leather Wallet,Accessories,Cotton Rope,2,North,Medium,5.0,11960,18748,6788,0
+205,Knitted Scarf,Fashion,Straw,5,NorthEast,Low,3.9,3388,3610,222,0
+206,Painted Ceramic Mug,Jewelry,Fabric,2,Uwa,Low,3.6,9443,9263,180,0
+207,Leather Wallet,Kitchenware,Wool,6,North,Low,4.1,3145,1053,2092,0
+208,Painted Ceramic Mug,Crafts,Straw,11,NorthEast,Medium,4.2,16181,11427,4754,0
+209,Embroidered Cushion,Crafts,Fabric,6,Sabaragamuwa,High,4.1,19236,9379,9857,0
+210,Wooden Sculpture,Home Decor,Straw,4,North,Low,3.1,11129,13148,2019,0
+211,Woven Basket,Kitchenware,Leather,4,Uwa,High,4.8,2608,9582,6974,0
+212,Painted Ceramic Mug,Fashion,Wool,4,North,Medium,4.0,17753,15228,2525,0
+213,Knitted Scarf,Accessories,Straw,13,NorthEast,Low,3.6,16388,1852,14536,0
+214,Painted Ceramic Mug,Accessories,Ceramic,1,Sabaragamuwa,High,4.9,17502,12795,4707,0
+215,Handmade Necklace,Kitchenware,Ceramic,9,Sabaragamuwa,Low,3.7,18920,4141,14779,0
+216,Knitted Scarf,Home Decor,Straw,17,NorthEast,Medium,4.2,14156,8578,5578,0
+217,Embroidered Cushion,Kitchenware,Straw,8,NorthEast,Low,3.7,4982,5369,387,0
+218,Woven Basket,Home Decor,Leather,9,NorthEast,Low,5.0,17212,8532,8680,0
+219,Leather Wallet,Kitchenware,Beads,10,NorthEast,Low,3.9,7800,7892,92,0
+220,Macrame Wall Hanging,Crafts,Wool,5,Uwa,High,3.6,5370,14309,8939,0
+221,Knitted Scarf,Accessories,Ceramic,18,Uwa,Medium,4.3,2898,10615,7717,0
+222,Handmade Necklace,Accessories,Fabric,17,NorthEast,Medium,4.9,18065,15792,2273,0
+223,Leather Wallet,Kitchenware,Ceramic,16,Sabaragamuwa,Low,4.4,10929,6114,4815,0
+224,Macrame Wall Hanging,Jewelry,Ceramic,3,North,Medium,3.6,10095,16055,5960,0
+225,Macrame Wall Hanging,Home Decor,Leather,1,NorthEast,Low,3.8,14774,6476,8298,0
+226,Embroidered Cushion,Crafts,Straw,13,NorthEast,High,3.7,7780,15679,7899,0
+227,Painted Ceramic Mug,Jewelry,Ceramic,17,NorthEast,Low,4.9,13889,13821,68,0
+228,Leather Wallet,Jewelry,Cotton Rope,6,North,High,4.4,16107,14285,1822,0
+229,Handmade Necklace,Jewelry,Beads,15,North,Medium,3.2,18405,4922,13483,0
+230,Leather Wallet,Accessories,Straw,10,NorthEast,Low,3.3,16393,19668,3275,0
+231,Woven Basket,Jewelry,Leather,9,Sabaragamuwa,Low,4.2,17021,16912,109,0
+232,Woven Basket,Fashion,Fabric,7,NorthEast,Medium,3.1,13036,17938,4902,0
+233,Painted Ceramic Mug,Fashion,Paper,4,North,High,4.0,3502,19287,15785,0
+234,Handmade Necklace,Jewelry,Wool,9,Uwa,Medium,3.7,11551,1630,9921,0
+235,Knitted Scarf,Jewelry,Cotton Rope,11,Sabaragamuwa,Medium,3.5,18662,8383,10279,0
+236,Woven Basket,Fashion,Beads,11,NorthEast,High,4.2,3867,3873,6,1
+237,Hand-Painted Vase,Home Decor,Paper,2,North,Low,4.3,19357,19331,26,1
+238,Woven Basket,Kitchenware,Wood,20,NorthEast,Medium,3.9,3465,7654,4189,0
+239,Macrame Wall Hanging,Jewelry,Wool,2,NorthEast,High,3.6,13883,12467,1416,0
+240,Hand-Painted Vase,Fashion,Leather,5,Uwa,Medium,4.2,13085,10672,2413,0
+241,Hand-Painted Vase,Kitchenware,Wood,10,Uwa,Low,3.3,4605,9453,4848,0
+242,Paper Flower Bouquet,Crafts,Leather,11,Sabaragamuwa,Medium,4.3,6410,16980,10570,0
+243,Macrame Wall Hanging,Jewelry,Leather,20,NorthEast,High,4.3,15813,3836,11977,0
+244,Paper Flower Bouquet,Home Decor,Beads,20,North,High,4.4,14353,14950,597,0
+245,Embroidered Cushion,Home Decor,Paper,18,NorthEast,Low,3.1,3805,19649,15844,0
+246,Hand-Painted Vase,Jewelry,Cotton Rope,1,Uwa,Low,4.4,18745,14519,4226,0
+247,Macrame Wall Hanging,Kitchenware,Paper,15,Sabaragamuwa,Medium,4.5,16036,11025,5011,0
+248,Paper Flower Bouquet,Home Decor,Wool,13,North,Low,4.5,16613,6252,10361,0
+249,Embroidered Cushion,Home Decor,Paper,11,North,High,4.7,13653,8829,4824,0
+250,Leather Wallet,Jewelry,Wood,20,Sabaragamuwa,Medium,3.1,13579,15878,2299,0
+251,Woven Basket,Accessories,Cotton Rope,2,NorthEast,Medium,4.6,18189,18588,399,0
+252,Leather Wallet,Crafts,Cotton Rope,18,North,Low,3.2,10383,15857,5474,0
+253,Knitted Scarf,Fashion,Cotton Rope,3,NorthEast,Medium,3.6,7140,15344,8204,0
+254,Paper Flower Bouquet,Crafts,Ceramic,19,NorthEast,Low,4.7,7497,14295,6798,0
+255,Hand-Painted Vase,Accessories,Beads,7,North,High,4.7,4079,7935,3856,0
+256,Embroidered Cushion,Jewelry,Wool,20,Sabaragamuwa,High,3.6,15517,1416,14101,0
+257,Woven Basket,Jewelry,Cotton Rope,16,Sabaragamuwa,Medium,4.6,10014,3031,6983,0
+258,Leather Wallet,Accessories,Wool,15,Sabaragamuwa,Medium,4.3,1436,15386,13950,0
+259,Paper Flower Bouquet,Fashion,Paper,5,Uwa,High,4.3,2296,5632,3336,0
+260,Macrame Wall Hanging,Home Decor,Ceramic,1,Sabaragamuwa,High,3.6,3173,7687,4514,0
+261,Knitted Scarf,Fashion,Wool,17,Sabaragamuwa,Medium,3.4,16304,2771,13533,0
+262,Wooden Sculpture,Crafts,Wood,13,NorthEast,Low,3.9,14145,17790,3645,0
+263,Macrame Wall Hanging,Jewelry,Paper,8,North,Medium,4.2,9676,10587,911,0
+264,Painted Ceramic Mug,Crafts,Ceramic,12,Sabaragamuwa,High,4.9,19512,15082,4430,0
+265,Woven Basket,Kitchenware,Straw,2,Uwa,High,3.5,9235,10501,1266,0
+266,Woven Basket,Fashion,Wool,14,Uwa,Medium,3.2,13549,3117,10432,0
+267,Embroidered Cushion,Fashion,Wood,7,Sabaragamuwa,Low,3.3,10117,9960,157,0
+268,Handmade Necklace,Accessories,Straw,15,North,Medium,5.0,11932,2090,9842,0
+269,Embroidered Cushion,Accessories,Wool,10,Uwa,High,4.7,16275,15249,1026,0
+270,Knitted Scarf,Crafts,Paper,19,Sabaragamuwa,High,4.1,5777,16974,11197,0
+271,Knitted Scarf,Kitchenware,Beads,10,North,Low,3.9,3552,14916,11364,0
+272,Embroidered Cushion,Accessories,Paper,2,NorthEast,High,3.6,8135,2567,5568,0
+273,Handmade Necklace,Crafts,Paper,20,Uwa,Medium,3.5,15956,18870,2914,0
+274,Hand-Painted Vase,Home Decor,Cotton Rope,1,North,Low,4.8,6053,15556,9503,0
+275,Embroidered Cushion,Crafts,Paper,9,Sabaragamuwa,Medium,4.3,7620,13072,5452,0
+276,Leather Wallet,Jewelry,Wool,5,Sabaragamuwa,High,3.1,6398,16864,10466,0
+277,Painted Ceramic Mug,Crafts,Leather,8,NorthEast,Medium,3.2,19106,11000,8106,0
+278,Painted Ceramic Mug,Kitchenware,Straw,8,North,High,4.4,10700,7552,3148,0
+279,Embroidered Cushion,Home Decor,Wood,7,Sabaragamuwa,Medium,4.4,19423,4028,15395,0
+280,Hand-Painted Vase,Kitchenware,Wood,20,Sabaragamuwa,High,4.2,11090,8608,2482,0
+281,Painted Ceramic Mug,Jewelry,Paper,16,Sabaragamuwa,Low,3.9,12904,16453,3549,0
+282,Knitted Scarf,Crafts,Beads,3,Sabaragamuwa,Medium,4.6,15067,4230,10837,0
+283,Hand-Painted Vase,Home Decor,Beads,19,NorthEast,High,4.4,13544,8431,5113,0
+284,Wooden Sculpture,Fashion,Ceramic,12,Uwa,High,4.5,14814,8877,5937,0
+285,Paper Flower Bouquet,Accessories,Cotton Rope,16,Sabaragamuwa,Medium,4.2,13337,2040,11297,0
+286,Wooden Sculpture,Fashion,Ceramic,11,Uwa,Medium,4.8,10372,3232,7140,0
+287,Wooden Sculpture,Kitchenware,Wood,3,NorthEast,Low,3.5,10340,11630,1290,0
+288,Knitted Scarf,Kitchenware,Beads,10,Sabaragamuwa,High,3.1,12766,8891,3875,0
+289,Leather Wallet,Kitchenware,Straw,1,NorthEast,Medium,4.9,3220,1070,2150,0
+290,Hand-Painted Vase,Fashion,Straw,15,Uwa,High,4.3,7741,17367,9626,0
+291,Macrame Wall Hanging,Crafts,Wool,19,NorthEast,High,3.4,18096,11341,6755,0
+292,Wooden Sculpture,Jewelry,Cotton Rope,15,North,Medium,4.4,3824,3902,78,0
+293,Handmade Necklace,Crafts,Wool,8,North,Medium,4.0,5481,14160,8679,0
+294,Handmade Necklace,Kitchenware,Wool,1,North,High,3.0,1831,6336,4505,0
+295,Embroidered Cushion,Fashion,Cotton Rope,13,Sabaragamuwa,Medium,3.5,19187,17103,2084,0
+296,Embroidered Cushion,Accessories,Paper,8,Sabaragamuwa,High,3.3,12816,15397,2581,0
+297,Wooden Sculpture,Kitchenware,Leather,4,North,Medium,3.9,2937,4459,1522,0
+298,Wooden Sculpture,Home Decor,Wood,6,Sabaragamuwa,High,4.6,13596,8727,4869,0
+299,Woven Basket,Kitchenware,Ceramic,5,Uwa,High,4.0,8790,7048,1742,0
+300,Handmade Necklace,Kitchenware,Fabric,2,NorthEast,High,4.2,15690,1403,14287,0
+301,Hand-Painted Vase,Accessories,Cotton Rope,8,Sabaragamuwa,Medium,4.0,14790,3317,11473,0
+302,Handmade Necklace,Home Decor,Wool,14,Sabaragamuwa,Low,3.3,9247,5265,3982,0
+303,Hand-Painted Vase,Jewelry,Paper,3,North,Low,4.0,4193,18747,14554,0
+304,Leather Wallet,Jewelry,Wool,19,North,Low,4.3,11758,17427,5669,0
+305,Woven Basket,Fashion,Wool,2,North,High,4.0,5843,6660,817,0
+306,Woven Basket,Fashion,Wool,17,NorthEast,Medium,3.3,13786,13462,324,0
+307,Wooden Sculpture,Fashion,Leather,8,NorthEast,Medium,4.0,11770,15817,4047,0
+308,Knitted Scarf,Jewelry,Fabric,17,Uwa,Medium,3.5,12944,4126,8818,0
+309,Handmade Necklace,Jewelry,Cotton Rope,13,Sabaragamuwa,High,4.3,9110,17827,8717,0
+310,Handmade Necklace,Accessories,Fabric,19,Sabaragamuwa,Medium,3.7,16965,13308,3657,0
+311,Knitted Scarf,Crafts,Leather,12,NorthEast,High,3.4,9931,13454,3523,0
+312,Wooden Sculpture,Home Decor,Beads,8,Sabaragamuwa,Medium,3.7,15051,11150,3901,0
+313,Macrame Wall Hanging,Home Decor,Wood,16,Uwa,High,3.4,10436,14458,4022,0
+314,Embroidered Cushion,Accessories,Fabric,11,Sabaragamuwa,Low,4.9,5685,10945,5260,0
+315,Macrame Wall Hanging,Jewelry,Ceramic,4,Uwa,Medium,3.5,7509,5542,1967,0
+316,Woven Basket,Home Decor,Paper,13,North,Low,3.6,1527,2908,1381,0
+317,Wooden Sculpture,Home Decor,Fabric,12,Uwa,High,3.0,19080,17575,1505,0
+318,Woven Basket,Jewelry,Wood,2,Sabaragamuwa,Medium,4.9,14784,4898,9886,0
+319,Macrame Wall Hanging,Home Decor,Wood,13,North,Low,4.3,2889,19816,16927,0
+320,Hand-Painted Vase,Accessories,Wood,12,North,High,3.2,5880,11440,5560,0
+321,Woven Basket,Crafts,Fabric,5,Uwa,High,3.4,14008,18642,4634,0
+322,Leather Wallet,Fashion,Ceramic,9,Sabaragamuwa,Medium,5.0,4419,9467,5048,0
+323,Wooden Sculpture,Accessories,Fabric,5,Uwa,High,4.3,17970,12937,5033,0
+324,Leather Wallet,Accessories,Leather,10,Uwa,Low,4.5,3764,11603,7839,0
+325,Knitted Scarf,Jewelry,Paper,19,Sabaragamuwa,High,3.8,12225,2706,9519,0
+326,Leather Wallet,Kitchenware,Straw,3,NorthEast,Medium,3.6,2855,13592,10737,0
+327,Handmade Necklace,Home Decor,Wood,20,Uwa,Medium,4.7,15469,12876,2593,0
+328,Knitted Scarf,Home Decor,Wool,9,Uwa,Medium,3.0,13679,4239,9440,0
+329,Wooden Sculpture,Accessories,Paper,15,Uwa,Medium,3.9,9005,9259,254,0
+330,Macrame Wall Hanging,Kitchenware,Beads,15,NorthEast,Low,4.3,19659,12330,7329,0
+331,Hand-Painted Vase,Accessories,Leather,3,Uwa,Medium,3.6,14425,7530,6895,0
+332,Paper Flower Bouquet,Crafts,Cotton Rope,14,NorthEast,Low,3.6,3052,10917,7865,0
+333,Leather Wallet,Home Decor,Ceramic,8,Sabaragamuwa,Medium,4.8,8152,9121,969,0
+334,Wooden Sculpture,Accessories,Wool,13,Sabaragamuwa,Low,4.0,18150,7587,10563,0
+335,Handmade Necklace,Accessories,Wood,20,Sabaragamuwa,High,3.6,12237,15586,3349,0
+336,Wooden Sculpture,Kitchenware,Paper,6,North,High,3.3,9776,5982,3794,0
+337,Paper Flower Bouquet,Home Decor,Wool,19,Uwa,Low,3.4,8981,13218,4237,0
+338,Hand-Painted Vase,Fashion,Wood,11,Sabaragamuwa,High,4.5,8614,9324,710,0
+339,Embroidered Cushion,Accessories,Leather,7,Sabaragamuwa,High,4.2,3070,14117,11047,0
+340,Hand-Painted Vase,Jewelry,Leather,12,Uwa,Medium,4.9,17081,16770,311,0
+341,Handmade Necklace,Home Decor,Leather,12,North,High,4.4,12592,5711,6881,0
+342,Painted Ceramic Mug,Home Decor,Paper,2,NorthEast,High,4.1,3920,8417,4497,0
+343,Paper Flower Bouquet,Jewelry,Leather,6,Uwa,Medium,3.4,12973,12287,686,0
+344,Painted Ceramic Mug,Kitchenware,Wood,17,North,High,5.0,4614,5142,528,0
+345,Paper Flower Bouquet,Fashion,Wood,15,North,Medium,3.0,6498,1508,4990,0
+346,Handmade Necklace,Accessories,Straw,18,Sabaragamuwa,High,4.5,7728,9914,2186,0
+347,Knitted Scarf,Crafts,Beads,17,NorthEast,High,3.8,1825,9799,7974,0
+348,Handmade Necklace,Crafts,Wood,12,Uwa,Low,3.6,4715,13567,8852,0
+349,Leather Wallet,Home Decor,Cotton Rope,16,North,Medium,3.8,4953,11778,6825,0
+350,Hand-Painted Vase,Jewelry,Fabric,12,Uwa,High,5.0,2428,7543,5115,0
+351,Painted Ceramic Mug,Fashion,Wool,13,Uwa,Medium,4.5,9967,15664,5697,0
+352,Handmade Necklace,Kitchenware,Paper,6,Sabaragamuwa,Medium,4.8,1399,2489,1090,0
+353,Woven Basket,Home Decor,Straw,7,Sabaragamuwa,Low,3.9,15522,3278,12244,0
+354,Handmade Necklace,Fashion,Wool,5,NorthEast,Medium,4.6,3039,13169,10130,0
+355,Painted Ceramic Mug,Accessories,Straw,19,Sabaragamuwa,High,4.7,19565,10037,9528,0
+356,Handmade Necklace,Crafts,Fabric,18,Sabaragamuwa,Medium,4.3,8715,8495,220,0
+357,Knitted Scarf,Accessories,Ceramic,4,NorthEast,Low,4.4,19583,5714,13869,0
+358,Woven Basket,Kitchenware,Leather,14,NorthEast,High,4.2,17890,13228,4662,0
+359,Leather Wallet,Kitchenware,Paper,4,Uwa,Low,3.1,6070,14112,8042,0
+360,Painted Ceramic Mug,Fashion,Fabric,7,NorthEast,High,3.6,14756,19548,4792,0
+361,Handmade Necklace,Kitchenware,Leather,15,North,Medium,3.9,7828,5386,2442,0
+362,Painted Ceramic Mug,Fashion,Straw,1,NorthEast,Medium,4.9,18816,8634,10182,0
+363,Embroidered Cushion,Crafts,Cotton Rope,17,Sabaragamuwa,Low,4.4,8638,6636,2002,0
+364,Embroidered Cushion,Fashion,Leather,5,NorthEast,Medium,4.1,8826,15511,6685,0
+365,Handmade Necklace,Kitchenware,Fabric,5,Sabaragamuwa,Medium,4.6,6006,5448,558,0
+366,Paper Flower Bouquet,Crafts,Straw,12,NorthEast,Low,4.1,9031,13664,4633,0
+367,Macrame Wall Hanging,Kitchenware,Straw,16,Uwa,Low,4.1,8970,19072,10102,0
+368,Painted Ceramic Mug,Jewelry,Wood,15,North,High,4.8,11621,18585,6964,0
+369,Painted Ceramic Mug,Crafts,Beads,20,Uwa,High,4.5,2460,3086,626,0
+370,Painted Ceramic Mug,Fashion,Ceramic,3,NorthEast,High,4.0,1072,15126,14054,0
+371,Leather Wallet,Crafts,Paper,18,Sabaragamuwa,High,3.3,16646,1912,14734,0
+372,Hand-Painted Vase,Jewelry,Beads,19,Uwa,Low,4.8,14921,16351,1430,0
+373,Painted Ceramic Mug,Accessories,Cotton Rope,3,Sabaragamuwa,Medium,4.3,4303,16732,12429,0
+374,Handmade Necklace,Home Decor,Fabric,5,Sabaragamuwa,Medium,3.9,19661,2205,17456,0
+375,Knitted Scarf,Fashion,Cotton Rope,15,North,Medium,3.8,4061,13954,9893,0
+376,Woven Basket,Kitchenware,Paper,14,NorthEast,High,4.2,5556,18676,13120,0
+377,Woven Basket,Crafts,Fabric,13,Sabaragamuwa,Medium,4.2,5703,2756,2947,0
+378,Wooden Sculpture,Home Decor,Straw,18,North,Low,3.1,6777,19114,12337,0
+379,Hand-Painted Vase,Kitchenware,Beads,5,NorthEast,Low,3.1,16745,5227,11518,0
+380,Painted Ceramic Mug,Jewelry,Beads,7,NorthEast,Low,4.1,11939,10274,1665,0
+381,Paper Flower Bouquet,Accessories,Straw,11,Sabaragamuwa,Low,3.9,3648,16219,12571,0
+382,Painted Ceramic Mug,Fashion,Cotton Rope,16,NorthEast,Low,3.5,5089,18695,13606,0
+383,Painted Ceramic Mug,Jewelry,Wood,6,Uwa,Medium,3.7,10346,6536,3810,0
+384,Painted Ceramic Mug,Accessories,Paper,6,Sabaragamuwa,High,4.1,2893,18641,15748,0
+385,Embroidered Cushion,Accessories,Cotton Rope,1,Sabaragamuwa,High,3.3,9420,14501,5081,0
+386,Paper Flower Bouquet,Kitchenware,Paper,7,North,High,3.1,8239,12204,3965,0
+387,Leather Wallet,Jewelry,Fabric,15,Sabaragamuwa,Low,4.5,13274,13423,149,0
+388,Leather Wallet,Crafts,Ceramic,7,Uwa,Medium,4.3,3978,2550,1428,0
+389,Leather Wallet,Accessories,Paper,6,NorthEast,Low,3.9,14248,14855,607,0
+390,Handmade Necklace,Crafts,Ceramic,9,Sabaragamuwa,Medium,4.2,13999,4911,9088,0
+391,Painted Ceramic Mug,Home Decor,Straw,7,Sabaragamuwa,Low,3.3,17954,16914,1040,0
+392,Handmade Necklace,Home Decor,Wood,1,North,Low,3.6,9395,8094,1301,0
+393,Woven Basket,Home Decor,Ceramic,1,Sabaragamuwa,Medium,4.1,7903,5624,2279,0
+394,Painted Ceramic Mug,Home Decor,Wool,7,NorthEast,Low,3.8,16551,17667,1116,0
+395,Knitted Scarf,Jewelry,Beads,18,Sabaragamuwa,Medium,4.7,17134,5234,11900,0
+396,Wooden Sculpture,Jewelry,Paper,9,Sabaragamuwa,High,3.3,19837,16518,3319,0
+397,Macrame Wall Hanging,Jewelry,Ceramic,5,NorthEast,Medium,3.1,16399,11311,5088,0
+398,Painted Ceramic Mug,Jewelry,Beads,5,Sabaragamuwa,Medium,4.2,15155,9811,5344,0
+399,Leather Wallet,Crafts,Leather,11,Sabaragamuwa,High,3.7,1795,17572,15777,0
+400,Painted Ceramic Mug,Kitchenware,Wool,12,NorthEast,High,4.8,14370,13026,1344,0
+401,Paper Flower Bouquet,Accessories,Leather,18,NorthEast,High,3.6,1697,6921,5224,0
+402,Paper Flower Bouquet,Accessories,Paper,10,NorthEast,High,4.8,5822,2343,3479,0
+403,Wooden Sculpture,Crafts,Wood,18,NorthEast,High,4.4,9366,18261,8895,0
+404,Handmade Necklace,Jewelry,Fabric,20,Sabaragamuwa,High,4.2,5465,1446,4019,0
+405,Wooden Sculpture,Home Decor,Cotton Rope,16,Uwa,High,4.7,4632,6300,1668,0
+406,Paper Flower Bouquet,Kitchenware,Straw,1,NorthEast,Medium,3.7,14045,9081,4964,0
+407,Embroidered Cushion,Crafts,Wood,20,NorthEast,Low,4.2,19006,8530,10476,0
+408,Handmade Necklace,Crafts,Straw,19,Uwa,High,4.7,12130,19610,7480,0
+409,Macrame Wall Hanging,Accessories,Cotton Rope,14,Sabaragamuwa,Low,4.5,9317,4139,5178,0
+410,Woven Basket,Crafts,Beads,11,North,High,3.6,17847,16371,1476,0
+411,Wooden Sculpture,Kitchenware,Paper,17,NorthEast,Low,4.5,12723,2211,10512,0
+412,Embroidered Cushion,Kitchenware,Fabric,16,NorthEast,Medium,4.6,19731,11573,8158,0
+413,Wooden Sculpture,Fashion,Wood,7,Sabaragamuwa,Low,3.2,4058,8920,4862,0
+414,Woven Basket,Kitchenware,Cotton Rope,12,Uwa,Medium,3.2,17521,11974,5547,0
+415,Painted Ceramic Mug,Crafts,Fabric,13,Sabaragamuwa,Medium,4.0,15592,12281,3311,0
+416,Woven Basket,Kitchenware,Ceramic,5,Sabaragamuwa,Low,4.2,1669,7479,5810,0
+417,Paper Flower Bouquet,Jewelry,Straw,13,Sabaragamuwa,Medium,3.8,3907,18811,14904,0
+418,Paper Flower Bouquet,Kitchenware,Leather,4,NorthEast,High,4.2,19993,8819,11174,0
+419,Leather Wallet,Fashion,Paper,11,Uwa,High,4.4,8952,5245,3707,0
+420,Handmade Necklace,Accessories,Straw,9,North,High,4.9,2951,1262,1689,0
+421,Handmade Necklace,Home Decor,Wool,14,Sabaragamuwa,High,3.9,9702,14024,4322,0
+422,Handmade Necklace,Kitchenware,Paper,13,North,High,3.0,2570,13956,11386,0
+423,Macrame Wall Hanging,Fashion,Cotton Rope,17,Uwa,Low,3.1,3095,17219,14124,0
+424,Wooden Sculpture,Fashion,Leather,15,Uwa,Medium,5.0,11539,11736,197,0
+425,Macrame Wall Hanging,Kitchenware,Wood,1,Sabaragamuwa,High,3.7,19988,5247,14741,0
+426,Knitted Scarf,Crafts,Cotton Rope,6,Sabaragamuwa,Low,4.7,4077,12913,8836,0
+427,Painted Ceramic Mug,Kitchenware,Wool,20,North,Medium,3.6,4740,2193,2547,0
+428,Embroidered Cushion,Accessories,Wool,1,Sabaragamuwa,Low,4.2,10944,5833,5111,0
+429,Leather Wallet,Kitchenware,Wool,10,NorthEast,High,4.5,5178,12974,7796,0
+430,Wooden Sculpture,Kitchenware,Straw,3,Sabaragamuwa,High,4.7,2327,17883,15556,0
+431,Macrame Wall Hanging,Home Decor,Cotton Rope,9,North,Medium,4.7,17808,4601,13207,0
+432,Hand-Painted Vase,Crafts,Ceramic,5,Uwa,Medium,3.1,19702,5387,14315,0
+433,Knitted Scarf,Kitchenware,Wood,3,North,Low,3.9,15257,18028,2771,0
+434,Painted Ceramic Mug,Jewelry,Fabric,14,North,High,4.4,15882,18747,2865,0
+435,Leather Wallet,Kitchenware,Wood,2,NorthEast,Medium,4.3,10962,17578,6616,0
+436,Embroidered Cushion,Accessories,Fabric,14,NorthEast,High,3.7,17935,9260,8675,0
+437,Embroidered Cushion,Accessories,Ceramic,11,Uwa,Low,4.0,6438,12392,5954,0
+438,Leather Wallet,Accessories,Paper,6,NorthEast,Medium,4.2,17017,2004,15013,0
+439,Wooden Sculpture,Jewelry,Paper,20,Uwa,High,3.2,3615,11888,8273,0
+440,Paper Flower Bouquet,Accessories,Fabric,18,Sabaragamuwa,Low,4.3,14266,4225,10041,0
+441,Painted Ceramic Mug,Accessories,Wool,12,Uwa,Medium,4.0,2048,3455,1407,0
+442,Hand-Painted Vase,Crafts,Cotton Rope,9,NorthEast,Low,3.8,13623,9928,3695,0
+443,Paper Flower Bouquet,Jewelry,Fabric,12,Sabaragamuwa,Medium,4.1,4634,6036,1402,0
+444,Woven Basket,Fashion,Paper,1,Sabaragamuwa,Low,3.5,15910,5964,9946,0
+445,Hand-Painted Vase,Kitchenware,Ceramic,16,North,Low,3.8,4061,13461,9400,0
+446,Macrame Wall Hanging,Jewelry,Wool,16,Uwa,High,3.6,5483,14035,8552,0
+447,Embroidered Cushion,Jewelry,Paper,8,Sabaragamuwa,High,3.4,3482,19836,16354,0
+448,Painted Ceramic Mug,Accessories,Leather,17,North,Low,4.2,9061,1793,7268,0
+449,Wooden Sculpture,Fashion,Paper,10,Sabaragamuwa,High,3.3,18522,18302,220,0
+450,Wooden Sculpture,Fashion,Fabric,3,North,Medium,3.4,12336,12876,540,0
+451,Handmade Necklace,Accessories,Cotton Rope,11,North,Medium,4.7,17900,12695,5205,0
+452,Macrame Wall Hanging,Accessories,Cotton Rope,16,North,High,3.6,17177,14890,2287,0
+453,Handmade Necklace,Fashion,Cotton Rope,6,Uwa,Low,3.6,5616,15410,9794,0
+454,Wooden Sculpture,Home Decor,Fabric,19,North,Low,4.5,3114,12013,8899,0
+455,Paper Flower Bouquet,Crafts,Leather,16,Sabaragamuwa,Medium,4.1,2453,18832,16379,0
+456,Painted Ceramic Mug,Jewelry,Ceramic,12,North,Medium,4.2,15457,8331,7126,0
+457,Handmade Necklace,Accessories,Ceramic,15,North,Medium,5.0,16810,1883,14927,0
+458,Paper Flower Bouquet,Accessories,Cotton Rope,4,Uwa,Low,4.5,19080,3338,15742,0
+459,Hand-Painted Vase,Home Decor,Ceramic,12,NorthEast,High,4.4,14601,12139,2462,0
+460,Macrame Wall Hanging,Jewelry,Beads,4,North,Low,4.2,12753,19508,6755,0
+461,Wooden Sculpture,Home Decor,Fabric,12,Uwa,High,4.5,11663,10417,1246,0
+462,Leather Wallet,Jewelry,Straw,10,Sabaragamuwa,High,3.9,9780,11501,1721,0
+463,Wooden Sculpture,Jewelry,Fabric,7,North,Medium,3.5,5766,5922,156,0
+464,Macrame Wall Hanging,Jewelry,Wool,19,Uwa,Medium,3.3,11413,8874,2539,0
+465,Woven Basket,Jewelry,Fabric,12,Uwa,Medium,3.3,14437,5396,9041,0
+466,Painted Ceramic Mug,Fashion,Cotton Rope,20,Uwa,Low,4.0,7996,1346,6650,0
+467,Leather Wallet,Crafts,Ceramic,5,Uwa,Medium,4.3,14527,10679,3848,0
+468,Knitted Scarf,Jewelry,Ceramic,17,Uwa,Low,3.8,18761,17118,1643,0
+469,Wooden Sculpture,Jewelry,Wool,4,Uwa,Low,3.2,9640,3238,6402,0
+470,Handmade Necklace,Kitchenware,Cotton Rope,18,Uwa,Medium,3.2,12883,4387,8496,0
+471,Embroidered Cushion,Jewelry,Wool,7,Uwa,Medium,3.8,9538,19154,9616,0
+472,Wooden Sculpture,Crafts,Leather,3,Uwa,Medium,4.7,9871,5839,4032,0
+473,Macrame Wall Hanging,Crafts,Cotton Rope,10,NorthEast,High,4.8,3547,7391,3844,0
+474,Wooden Sculpture,Jewelry,Paper,2,North,Low,3.1,17465,3738,13727,0
+475,Embroidered Cushion,Jewelry,Straw,12,NorthEast,High,5.0,7603,14146,6543,0
+476,Leather Wallet,Accessories,Paper,20,Sabaragamuwa,Low,3.5,11398,7040,4358,0
+477,Wooden Sculpture,Accessories,Straw,13,Sabaragamuwa,Low,3.9,1576,17318,15742,0
+478,Paper Flower Bouquet,Kitchenware,Ceramic,4,North,Low,4.1,13737,1946,11791,0
+479,Handmade Necklace,Accessories,Wool,2,Uwa,Low,4.0,9702,19449,9747,0
+480,Woven Basket,Fashion,Wool,19,Sabaragamuwa,High,3.1,15381,3382,11999,0
+481,Leather Wallet,Accessories,Straw,3,Uwa,High,4.6,16625,14694,1931,0
+482,Painted Ceramic Mug,Fashion,Wool,9,North,Low,3.6,3271,12514,9243,0
+483,Handmade Necklace,Home Decor,Beads,4,NorthEast,Medium,4.7,8608,15075,6467,0
+484,Painted Ceramic Mug,Accessories,Cotton Rope,2,NorthEast,Medium,3.6,14873,16933,2060,0
+485,Macrame Wall Hanging,Home Decor,Leather,7,North,Low,4.2,6864,14716,7852,0
+486,Paper Flower Bouquet,Home Decor,Fabric,19,Uwa,Medium,4.6,14323,19593,5270,0
+487,Painted Ceramic Mug,Jewelry,Ceramic,19,Uwa,Low,4.8,15973,7925,8048,0
+488,Knitted Scarf,Fashion,Leather,18,North,High,4.6,15487,15284,203,0
+489,Woven Basket,Fashion,Fabric,1,NorthEast,Medium,3.6,19623,16979,2644,0
+490,Woven Basket,Accessories,Straw,8,North,High,3.3,19842,16570,3272,0
+491,Painted Ceramic Mug,Accessories,Cotton Rope,20,Sabaragamuwa,Low,3.1,4259,7508,3249,0
+492,Embroidered Cushion,Home Decor,Ceramic,20,Sabaragamuwa,Low,3.5,12653,16320,3667,0
+493,Leather Wallet,Fashion,Fabric,6,North,Low,3.7,9274,15531,6257,0
+494,Knitted Scarf,Jewelry,Wool,20,North,High,4.5,11443,9136,2307,0
+495,Knitted Scarf,Jewelry,Wood,8,NorthEast,Medium,4.1,19767,16738,3029,0
+496,Knitted Scarf,Crafts,Fabric,6,Uwa,High,4.7,15565,9855,5710,0
+497,Hand-Painted Vase,Home Decor,Fabric,5,NorthEast,Low,4.5,1000,6089,5089,0
+498,Macrame Wall Hanging,Kitchenware,Beads,4,NorthEast,High,3.1,17729,2958,14771,0
+499,Knitted Scarf,Home Decor,Fabric,6,North,Low,4.6,11404,16535,5131,0
+500,Leather Wallet,Crafts,Fabric,19,Uwa,Medium,4.6,14636,15765,1129,0
